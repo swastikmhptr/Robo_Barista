@@ -1,0 +1,5 @@
+Kill terminals and start:
+pkill -f gnome-terminal -9 && cd ~/Documents/frankapy/ && bash ./bash_scripts/start_control_pc.sh -u student -i iam-happy
+
+If above did not work, the terminals are already probably killed. Do this one below instead.
+cd ~/Documents/frankapy/ && bash ./bash_scripts/start_control_pc.sh -u student -i iam-happy

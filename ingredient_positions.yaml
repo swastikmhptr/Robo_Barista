@@ -1,0 +1,16 @@
+cup1:
+  position:
+    x: 0.4001608  
+    y: 0.13937237 
+    z: 0.1905
+  height: 0.15
+  radius: 0.045
+
+cup2:
+  position:
+    x: 0.52548781
+    y: 0.2281155
+    z: 0.1
+  height: 0.20
+  radius: 0.045
+
